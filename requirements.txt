@@ -82,7 +82,7 @@ kafka-python==1.4.2
 kiwisolver==1.1.0
 lazy-object-proxy==1.2.2
 locket==0.2.0
-lxml==3.7.2
+lxml==4.6.3
 M2Crypto==0.27.0
 MarkupSafe==1.0
 matplotlib==2.2.4
