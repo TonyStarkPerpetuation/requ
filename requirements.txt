@@ -31,7 +31,7 @@ cos-python-sdk-v5==1.6.8
 cryptography==2.6.1
 cycler==0.10.0
 Cython==0.25.2
-dask==0.13.0
+dask==2021.10.0
 datashape==0.5.2
 DBUtils==1.2
 decorator==4.0.11
